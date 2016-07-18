@@ -49,7 +49,7 @@
 - 首页：/
 - 用户路由：/users
 - 部门路由：/departments
-- 联系人路由：/contracts
+- 联系人路由：/contacts
 
 ----------
 
@@ -576,7 +576,7 @@
 
 #### 1.联系人列表
 
-- **URL：** */contracts*
+- **URL：** */contacts*
 - **动作：** GET
 - **返回值：**
 
