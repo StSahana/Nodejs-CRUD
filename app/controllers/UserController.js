@@ -61,79 +61,79 @@ exports.userList = function (req, res) {
                        userSection.A[userSection.A.length]=users[i];
                        break;
                    case "B":
-                       userSection.A[userSection.A.length]=users[i];
+                       userSection.B[userSection.B.length]=users[i];
                        break;
                    case "C":
-                       userSection.A[userSection.A.length]=users[i];
+                       userSection.C[userSection.C.length]=users[i];
                        break;
                    case "D":
-                   userSection.A[userSection.A.length]=users[i];
-                   break;
+                        userSection.D[userSection.D.length]=users[i];
+                        break;
                    case "E":
-                       userSection.A[userSection.A.length]=users[i];
+                       userSection.E[userSection.E.length]=users[i];
                        break;
                    case "F":
-                       userSection.A[userSection.A.length]=users[i];
+                       userSection.F[userSection.F.length]=users[i];
                        break;
                    case "G":
-                       userSection.A[userSection.A.length]=users[i];
+                       userSection.G[userSection.G.length]=users[i];
                        break;
                    case "H":
-                       userSection.A[userSection.A.length]=users[i];
+                       userSection.H[userSection.H.length]=users[i];
                        break;
                    case "I":
-                       userSection.A[userSection.A.length]=users[i];
+                       userSection.I[userSection.I.length]=users[i];
                        break;
                    case "J":
-                       userSection.A[userSection.A.length]=users[i];
+                       userSection.J[userSection.J.length]=users[i];
                        break;
                    case "K":
-                       userSection.A[userSection.A.length]=users[i];
+                       userSection.K[userSection.K.length]=users[i];
                        break;
                    case "L":
-                       userSection.A[userSection.A.length]=users[i];
+                       userSection.L[userSection.L.length]=users[i];
                        break;
                    case "M":
-                   userSection.A[userSection.A.length]=users[i];
-                   break;
+                        userSection.M[userSection.M.length]=users[i];
+                        break;
                    case "N":
-                   userSection.A[userSection.A.length]=users[i];
-                   break;
+                        userSection.N[userSection.N.length]=users[i];
+                        break;
                    case "O":
-                   userSection.A[userSection.A.length]=users[i];
-                   break;
+                        userSection.O[userSection.O.length]=users[i];
+                        break;
                    case "P":
-                   userSection.A[userSection.A.length]=users[i];
-                   break;
+                        userSection.P[userSection.P.length]=users[i];
+                        break;
                    case "Q":
-                       userSection.A[userSection.A.length]=users[i];
+                       userSection.Q[userSection.Q.length]=users[i];
                        break;
                    case "R":
-                       userSection.A[userSection.A.length]=users[i];
+                       userSection.R[userSection.R.length]=users[i];
                        break;
                    case "S":
-                       userSection.A[userSection.A.length]=users[i];
+                       userSection.S[userSection.S.length]=users[i];
                        break;
                    case "T":
-                       userSection.A[userSection.A.length]=users[i];
+                       userSection.T[userSection.T.length]=users[i];
                        break;
                    case "U":
-                       userSection.A[userSection.A.length]=users[i];
+                       userSection.U[userSection.U.length]=users[i];
                        break;
                    case "V":
-                       userSection.A[userSection.A.length]=users[i];
+                       userSection.V[userSection.V.length]=users[i];
                        break;
                    case "W":
-                       userSection.A[userSection.A.length]=users[i];
+                       userSection.W[userSection.W.length]=users[i];
                        break;
                    case "X":
-                       userSection.A[userSection.A.length]=users[i];
+                       userSection.X[userSection.X.length]=users[i];
                        break;
                    case "Y":
-                       userSection.A[userSection.A.length]=users[i];
+                       userSection.Y[userSection.Y.length]=users[i];
                        break;
                    case "Z":
-                       userSection.A[userSection.A.length]=users[i];
+                       userSection.Z[userSection.Z.length]=users[i];
                        break;
                }
             }
